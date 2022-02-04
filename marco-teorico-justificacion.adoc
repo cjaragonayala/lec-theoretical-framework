@@ -1,0 +1,125 @@
+= Marco Teórico y Justificación
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+:title-slide-background-color: "#ff0000"
+:customcss: my-css.css
+:icons: font
+:source-highlighter: highlightjs
+:revealjs_theme: night
+:revealjs_slideNumber: true
+
+////
+== Objetivos
+
+El participante será capaz de:
+
+* Entender la importancia del marco teórico y justificación 
+* Construir un marco teórico
+* Construir una justificación 
+////
+
+[.red.background]
+== Marco Teórico
+
+*Conocimiento previo analizado* que *ayuda* al *proceso de investigación*.
+
+=== Conocimiento previo
+
+[%step]
+. Incluye:
+.. Evidencia objetiva
+.. Teorías: conclusiones/interpretaciones
+.. Interpretación propia del autor
+. Debe ser citado
+
+=== Evidencia objetiva
+
+TIP: Cita siempre
+
+* Sección de "Resultados"
+
+[.green.background]
+== Justificación
+
+¿Por qué es importante?
+
+
+The [.step.highlight-red]#greatest glory in living# lies not in never falling, but in [.step.highlight-red]#rising every time we fall#.
+
+[.columns]
+== 2 columns
+
+[.column.is-one-third]
+--
+[%step]
+* **Edgar Allen Poe**
+* Sheri S. Tepper
+* Bill Bryson
+--
+
+[.column]
+--
+Edgar Allan Poe (/poʊ/; born Edgar Poe; January 19, 1809 – October 7, 1849) was an American writer, editor, and literary critic.
+--
+
+[.important-text]
+== Prueba de codigo
+
+[source,java,linenums,highlight='1..9|2..4|6..8']
+----
+public class TestClass {
+    public TestClass() {
+
+    }
+
+    public void testMethod() {
+
+    }
+}
+----
+
+== Prueba
+
+[source,kotlin,data-lang-family=compiled]
+----
+println("Hello world")
+----
+
+== Puebas
+
+The hail-and-rainbow protocol can be initiated at three levels:
+
+. doublefootnote:[The double hail-and-rainbow level makes my toes tingle.]
+. tertiary
+. apocalyptic
+
+A bold statement!footnote:disclaimer[Opinions are my own.]
+
+Another outrageous statement.footnote:disclaimer[]
+
+== Prueba 2
+
+[%interactive,data-state=in-progress]
+[ ] Dig
+[x] Plant
+[ ] Hose
+
+== Prueba 2
+
+[data-context=civil-rights,data-event=speech,data-date=28/08/1963]
+> I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character. I have a dream today!
+> -- Martin Luther King Jr. delivering the speech at the 1963 Washington D.C. Civil Rights March.
+
+== Prueba 2
+
+[stem,data-algebra-concept=square-root]
+++++
+\sqrt{37} = \sqrt{\frac{73^2-1}{12^2}} \approx \frac{73}{12} (1 - \frac{1}{2\cdot73^2})
+++++
+
+== Prueba 2
+
+audio::flock-of-seagulls.mp3[data-license="cc-3.0"]
+
+== Prueba 2
+
+video::kZH9JtPBq7k[youtube,start=34,data-video-id=kZH9JtPBq7k]
