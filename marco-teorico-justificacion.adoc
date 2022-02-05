@@ -7,6 +7,10 @@ Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 :revealjs_theme: night
 :revealjs_slideNumber: true
 :imagesdir: attch
+:title-slide-background-video: video-back-title1.mp4
+:title-slide-background-video-loop: true
+:title-slide-background-video-muted: true
+:title-slide-background-size: cover
 
 ////
 == Objetivos
@@ -50,8 +54,7 @@ Construcción iterativa según revisión de la literatura
 . Estudios comparables ("Antecedentes")
 .. Metodología
 .. Resultados relevantes
-. Definición de conceptos (glosario)
-. Relaciones de conceptos (teorías, modelos, etc.)
+. La "Teoría" (definición, teorías, modelos, clasificaciones, etc.)
 
 [.red.background]
 === !
@@ -156,3 +159,20 @@ Los resultados que espero generar, ¿qué impacto tendrían en el problema prác
 [%step]
 * Cita adecuadamente
 * "Todo lo que brilla no es oro" y "Hasta entre lo despreciado se encuentran tesoros": Analiza la esencia y no juzgues solo según la portada.
+
+[.columns, background-video="video-back.mp4",options="loop,muted"]
+== Recursos adicionales
+
+[.column]
+--
+* https://journals.lww.com/academicmedicine/fulltext/2020/07000/the_distinctions_between_theory,_theoretical.21.aspx[Varpio L, et. al.]
+* https://journals.sagepub.com/doi/10.1177/1534484309332617[Tonette S, et. al.]
+* ¡Practica y aplica lo aprendido!
+--
+
+[.column]
+--
+*Esta presentación disponible en*
+image:qr-slides.png[https://cjaragonayala.github.io/lec-theoretical-framework/] +
+[emphasize]#*https://bit.ly/3LcuUBe*#
+--
