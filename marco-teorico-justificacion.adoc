@@ -160,7 +160,7 @@ Los resultados que espero generar, ¿qué impacto tendrían en el problema prác
 * Cita adecuadamente
 * "Todo lo que brilla no es oro" y "Hasta entre lo despreciado se encuentran tesoros": Analiza la esencia y no juzgues solo según la portada.
 
-[.columns, background-video="video-back.mp4",options="loop,muted"]
+[.columns, background-video="video-back2.mp4",options="loop,muted"]
 == Recursos adicionales
 
 [.column]
